@@ -35,12 +35,7 @@
     "redux-mock-store": "^1.5.4",
     "react-scripts": "^5.0.0"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom --transformIgnorePatterns \"node_modules/(?!pdfjs-dist)/\"",
-    "eject": "react-scripts eject"
-  },
+  
   "browserslist": {
     "production": [
       ">0.2%",
